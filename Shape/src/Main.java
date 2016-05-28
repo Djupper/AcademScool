@@ -17,6 +17,8 @@ public class Main {
         System.out.println("Площадь прямоугольника  " + r1.getArea());
         System.out.println();
         Circle c1 = new Circle(2);
+        System.out.println("Круг ширина " + c1.getHeight());
+        System.out.println("Круг высота " + c1.getHeight());
         System.out.printf("Плозщадь круга " + "%.3f", c1.getArea());
     }
 }

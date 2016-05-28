@@ -1,6 +1,6 @@
 public class Square extends Shape {
 
-    private Integer length;
+    private int length;
 
     public Square(int length) {
         this.length = length;

@@ -1,5 +1,6 @@
 public class Rectangle extends Shape {
-    private Integer a, b;
+    private int a;
+    private int b;
 
     public Rectangle(int a, int b) {
         this.a = a;
