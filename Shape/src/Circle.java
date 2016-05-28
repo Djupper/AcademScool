@@ -1,5 +1,11 @@
-/**
- * Created by Djupp_000 on 28.05.2016.
- */
-public class Circle {
+public class Circle extends Shape {
+    private Integer r;
+
+    public Circle(int r) {
+        this.r = r;
+    }
+
+    public double getArea() {
+        return Math.PI * Math.pow(r, 2);
+    }
 }
