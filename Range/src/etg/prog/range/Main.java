@@ -1,3 +1,5 @@
+package etg.prog.range;
+
 import java.util.Scanner;
 
 public class Main {

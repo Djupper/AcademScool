@@ -1,3 +1,5 @@
+package etg.prog.shape;
+
 public class Main {
     public static void main(String[] args) {
         Shape s1 = new Square(5);

@@ -1,3 +1,5 @@
+package etg.prog.shape;
+
 public abstract class Shape {
 
     public double getArea() {

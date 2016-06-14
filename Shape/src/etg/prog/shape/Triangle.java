@@ -1,3 +1,5 @@
+package etg.prog.shape;
+
 public class Triangle extends Shape {
 
     private int x1;

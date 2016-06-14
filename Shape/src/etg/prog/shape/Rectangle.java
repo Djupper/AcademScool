@@ -1,3 +1,5 @@
+package etg.prog.shape;
+
 public class Rectangle extends Shape {
     private int a;
     private int b;

@@ -1,3 +1,5 @@
+package etg.prog.generics;
+
 /**
  * Created by Prog on 30.05.2016.
  */

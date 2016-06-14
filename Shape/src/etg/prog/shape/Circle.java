@@ -1,3 +1,5 @@
+package etg.prog.shape;
+
 public class Circle extends Shape {
     private int r;
 

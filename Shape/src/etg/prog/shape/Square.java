@@ -1,3 +1,5 @@
+package etg.prog.shape;
+
 public class Square extends Shape {
 
     private int length;
